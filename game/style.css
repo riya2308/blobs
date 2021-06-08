@@ -1,0 +1,15 @@
+#gamearea{
+   
+    border: 4px solid blue;
+}
+ 
+body{
+    height: 100vh;
+    background: linear-gradient(
+        0deg,rgb(223, 142, 142),rgb(130, 184, 130));
+    text-align: center;
+    overflow:hidden;
+}
+h1{
+    font-family: Comic Sans MS;
+}
